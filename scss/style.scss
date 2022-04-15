@@ -388,7 +388,7 @@ body {
       top: 60px;
       width: 292px;
       height: 12px;
-      background: url("images/svg/sponsor-icon.svg") no-repeat;
+      background: url("../images/svg/sponsor-icon.svg") no-repeat;
       @media (max-width: $breakpoint1024) {
         display: none;
       }
@@ -420,7 +420,7 @@ body {
 
 .gaming {
   padding: 130px 0;
-  background: url("images/game-bg.png") no-repeat;
+  background: url("../images/game-bg.png") no-repeat;
   background-size: cover;
   height: 100%;
   @media (max-width: $breakpoint900) {
@@ -438,7 +438,7 @@ body {
       content: "";
       width: 32px;
       height: 32px;
-      background-image: url(images/svg/prev-icon.svg);
+      background-image: url(../images/svg/prev-icon.svg);
       background-repeat: no-repeat;
       position: absolute;
       left: 39.5%;
@@ -502,7 +502,7 @@ body {
       position: absolute;
       left: -40px;
       top: 0;
-      background: url("images/svg/game-icon.svg") no-repeat;
+      background: url("../images/svg/game-icon.svg") no-repeat;
     }
     @media (max-width: $breakpoint900) {
       width: auto;
@@ -554,7 +554,7 @@ body {
       content: "";
       width: 32px;
       height: 32px;
-      background-image: url("images/svg/prev-icon.svg");
+      background-image: url("../images/svg/prev-icon.svg");
       background-repeat: no-repeat;
       position: absolute;
       left: 0;
@@ -677,7 +677,7 @@ body {
       content: "";
       width: 32px;
       height: 32px;
-      background-image: url("images/svg/prev-icon.svg");
+      background-image: url("../images/svg/prev-icon.svg");
       background-repeat: no-repeat;
       position: absolute;
       left: 0;
@@ -818,7 +818,7 @@ body {
       content: "";
       width: 32px;
       height: 32px;
-      background-image: url("images/svg/prev-icon.svg");
+      background-image: url("../images/svg/prev-icon.svg");
       background-repeat: no-repeat;
       position: absolute;
       left: 0;
@@ -947,7 +947,7 @@ body {
       top: 100%;
       width: 430px;
       height: 16px;
-      background: url("images/svg/register-icon.svg") no-repeat;
+      background: url("../images/svg/register-icon.svg") no-repeat;
       @media (max-width: $breakpoint900) {
         display: none;
       }
